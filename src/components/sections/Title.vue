@@ -109,7 +109,7 @@ const addresses = [
 
 // 强调内容
 const emphases = [
-  // "🎉 [ABCD 2024] Poster",
+  "🎉 Accepted by CVPR 2026 Findings",
   // "🥰 欢迎关注“减论”微信公众号/B站/知乎/小红书",
   // "传递人工智能算法科普教育的减约理解",
   // "提升信息效率及认知维度"
